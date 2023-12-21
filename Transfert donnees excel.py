@@ -1,4 +1,5 @@
 #Décodage de la trame --- outdated
+# Test file. See transfertDonnees.py for the actually used functions
 
 from datetime import datetime
 import xlwt
